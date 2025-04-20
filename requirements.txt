@@ -1,0 +1,26 @@
+# Core libraries
+torch>=1.9.0
+numpy>=1.19.0
+pandas>=1.2.0
+tqdm>=4.62.0
+matplotlib>=3.4.0
+scikit-learn>=0.24.0
+
+# Transformers and NLP
+transformers>=4.15.0
+datasets>=1.18.0
+tokenizers>=0.10.3
+nltk>=3.6.0
+rouge_score>=0.0.4
+
+# Configuration and logging
+pyyaml>=6.0
+wandb>=0.12.0
+
+# API and serving
+fastapi>=0.70.0
+uvicorn>=0.15.0
+pydantic>=1.8.2
+
+# Testing
+pytest>=6.2.5

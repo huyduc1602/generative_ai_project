@@ -1,0 +1,9 @@
+# Model configuration
+
+model_type: transformer
+model_name: gpt2
+hidden_size: 768
+num_layers: 12
+num_heads: 12
+dropout: 0.1
+vocab_size: 50257
