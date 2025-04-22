@@ -6,11 +6,7 @@ This repository contains the implementation of a generative AI model.
 
 This generative AI project implements a state-of-the-art deep learning model capable of generating [specific type of content - text/images/audio/etc]. Built on [framework - PyTorch/TensorFlow/etc], it leverages recent advancements in [specific techniques - transformer architectures/GANs/etc] to produce high-quality outputs with minimal computational resources.
 
-## Visualization
-
 ![Generative AI Model Architecture](assets/images/architecture.png)
-
-This diagram illustrates the architecture of our generative model, showing how data flows through the various layers and components during both training and inference phases.
 
 ### Key Features
 - High-quality content generation with fine-tuned control parameters
